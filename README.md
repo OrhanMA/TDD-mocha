@@ -21,3 +21,4 @@ npm install
 ## Exécuter les tests
 
 `npm run test test/cube/test_geometrie.js`
+`npm run test test/avion/test_calculs.js`
